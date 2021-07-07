@@ -36,6 +36,7 @@ Ng-Matero is an Angular admin template made with Material components.
 - Internationalization
 - Authentication
 - HTTP interceptors
+- Permissions management
 
 ## 📖 Documents
 
@@ -48,8 +49,8 @@ Which version to use?
 | Angular | Material | Ng-Matero | Extensions |
 | ------- | -------- | --------- | ---------- |
 | v11     | v11      | 11.x.x    | 11.x.x     |
-| v10     | v10      | 10.3.5    | 10.14.0    |
-| v9      | v9       | 9.7.2     | 9.11.13    |
+| v10     | v10      | 10.4.1    | 10.16.4    |
+| v9      | v9       | 9.7.2     | 9.11.14    |
 | v8      | v8       | 0.16.0    | 0.9.3      |
 
 ## 🔧 Installation
